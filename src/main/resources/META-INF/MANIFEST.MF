@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.example.testrunapp2_httprequest.TestRunApp2HttpRequestAp
+ plication
+
